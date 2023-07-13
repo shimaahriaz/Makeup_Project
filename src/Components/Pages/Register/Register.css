@@ -1,0 +1,60 @@
+.form-contact{
+    padding-top: 10rem;
+    padding-bottom: 7rem;
+    background-color: var(--bgAbout);
+    overflow-y: hidden;
+}
+
+.h-contact{
+    margin-bottom: 4rem !important;
+    text-align: center;
+    font-family: var(--mainFont);
+    font-weight: var(--fontRegular);
+}
+
+input{
+    font-family: cursive !important;
+}
+
+input::placeholder
+{
+    color: rgba(0, 0, 0, 0.404) !important;
+}
+
+.input-reglogin{
+    background-color: #e6ddbb !important;
+    border: none !important;
+    padding-left: 0 !important;
+    font-size: 1.5rem !important;
+    color: #000000b8 !important;
+
+}
+
+.form-registerlogin{
+    background-color: #e6ddbb !important;
+    border: none !important;
+}
+
+.form-control:hover, .form-control:focus{
+    box-shadow: none !important;
+}
+
+.line-contact{
+    width: 100%;
+    height: 1px;
+    margin-bottom: 0 !important;
+    background-color: darkgrey;
+}
+
+
+.account-log-contact{
+    font-family: auto !important;
+    margin-bottom: 0 !important;
+}
+
+.login{
+    font-family: auto !important;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #f2b443;
+}

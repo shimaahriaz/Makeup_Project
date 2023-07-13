@@ -1,0 +1,132 @@
+
+.-shop{
+    margin-top: 5rem;
+    height: 130px;
+    width: 100%;
+    background-color: var(--bg);
+    padding: 1.8rem 0;
+}
+
+.-shop h1{
+    text-align: center;
+    font-weight: var(--fontWeight-medium);
+    font-family: var(--fontFamilay);
+    color: white;
+    margin-bottom: 0 !important;
+
+}
+
+.circle--shop{
+    text-align: center;
+}
+
+.shop-h1{
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    margin-left: 2px;
+}
+
+.circle--shop .brown{
+    background-color: var(--backgroundCircle-color);
+}
+
+.circle--shop .red{
+    background-color: var(--colorAboutUs);
+}
+
+.circle--shop .green{
+    background-color: var(--backgroundSearch);
+}
+
+.form-select{
+    width: 20% !important;
+   float: right;
+}
+
+.form-select-price{
+    border-color: var(--bgAbout) !important;
+    border-radius: 0 !important;
+}
+
+.form-select-price:hover{
+   box-shadow: none !important;
+   border-color: var(--bgAbout) !important;
+}
+
+.form-select-price:focus{
+    box-shadow: none !important;
+    border-color: var(--bgAbout) !important;
+}
+
+
+.accordion{
+    padding: 0 !important;
+    --bs-accordion-bg: white !important;
+    --bs-accordion-btn-focus-border-color: none !important; 
+   --bs-accordion-btn-focus-box-shadow: none !important;
+   --bs-accordion-active-bg: none !important;
+}
+
+.accordion-button{
+    font-size: 1.2rem !important;
+}
+
+.accordion-item{
+    border-radius: 0 !important;
+    border: none !important;
+    font-family: monospace;
+    background-color: var(--bgQuestion) !important;
+    margin: .8rem 0;
+}
+
+.accordion-header{
+    background-color: var(--youllow) !important;
+    color: white !important;
+    border-bottom: 1px solid rgba(197, 214, 41, 0.705) !important;
+    font-family: cursive;
+}
+
+.show-more{
+    color: mediumvioletred;
+    /* margin: .2rem 0; */
+    font-size: .9rem;
+    cursor: pointer;
+}
+
+.select-price h3{
+    margin-top: 3rem !important;
+    font-family: cursive !important;
+    font-size: 1.3rem !important;
+}
+
+.select-price span{
+    font-family: auto;
+}
+
+.css-187mznn-MuiSlider-root{
+    height: 2px !important;
+    width: 80% !important;
+    padding: 13px 1rem !important;
+    color: var(--colorAboutUs) !important;
+}
+
+.css-eg0mwd-MuiSlider-thumb {
+    width: 15px !important;
+    height: 15px !important;
+}
+
+.not-found{
+    position: absolute;
+    top: 80%;
+    font-size: 3rem !important;
+    left: 50%;
+    font-family: auto;
+    background-color: bisque;
+}
+
+
+.xx{
+    max-height: 90px !important;
+}

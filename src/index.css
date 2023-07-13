@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;0,600;0,700;1,400&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+
+
+
+
+
+:root{
+  --backgroundCircle-color: #fecd4d;
+  --background-navbarHeader: white;
+  --backgroundSearch: #f5d1b1;
+  --colorAboutUs: darkseagreen;
+  --mainBgColor: #f8f8f8;
+  --bgAbout: #e6ddbb;
+  --bgColor: #a5ac0c;
+  --youllow: #eeffab;
+  --bgMainSection: #484848;
+  --bgQuestion: #b5dcdb;
+  --bg: #223b38;
+  --bgBrown: #dec3a0;
+  --bgGreen: #b1be86;
+  --bgBeauty: #98918a;
+  --bgDetails: #e8e391;
+  --bgCart: #1e727d;
+  --bgCartShop: #e2d5c5;
+  --bg2Cart: #b8b8b8;
+  --Cart2: #f4efd9;
+  --textCart: #7cbec8;
+  --text2Cart: #9ab5a4;
+
+  /*Font Weight*/
+
+  --fontWeight-medium: 500;
+  --fontRegular: bold;
+
+  /* Font Familay*/
+  --mainFont: auto;
+
+  /* Font Familay*/
+  --fontFamilay: 'Great Vibes', cursive; 
+}
+
+
+
+
+
+body{
+  font-family: 'Poppins', sans-serif;
+  /* height: 100000px; */
+}

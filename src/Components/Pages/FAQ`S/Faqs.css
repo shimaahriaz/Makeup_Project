@@ -1,0 +1,26 @@
+
+
+.bg-question{
+  background-color: var(--bgQuestion);
+  padding-top: 8rem;
+  padding-bottom: 10rem;
+}
+
+.text-question h2{
+  color: var(--bs-code-color);
+}
+
+
+.text-question p{
+  margin-bottom: 4rem;
+}
+
+.accordion{
+    padding-top: 7rem;
+}
+
+.accordion-button:not(.collapsed):hover, .accordion-button:not(.collapsed):focus{
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none!important;
+  }

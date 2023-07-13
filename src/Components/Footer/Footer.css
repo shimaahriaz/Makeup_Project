@@ -1,0 +1,42 @@
+
+.section_footer{
+    background-color: black;
+    padding: 4rem 0 2rem 0;
+}
+
+.wavey_footer h1{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 2rem !important;
+    font-family: auto;
+    margin-bottom: 0.5rem !important;
+    color: var(--backgroundCircle-color);
+}
+
+.wavey_footer p{
+    font-size: 6px;
+    margin-bottom: 0 !important;
+    letter-spacing: 6px;
+    color: var(--backgroundCircle-color);
+}
+
+.text_footer h6{
+    color: white;
+    font-family: auto;
+    font-size: 1.2rem;
+    font-weight: var(--fontWeight-medium);
+}
+
+.text_footer p{
+    color: rgba(255, 255, 255, 0.329);
+    font-family: auto;
+    margin-bottom: 0.3rem !important;
+}
+
+.icon_footer{
+    color: var(--backgroundCircle-color);
+    font-size: 1.5rem;
+}
+
+
+
